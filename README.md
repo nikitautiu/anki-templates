@@ -12,7 +12,7 @@ Feel free to use and adapt them to your needs!
 
 ## Installation
 
-To add a template, simply create a new note type with the fields from  its `fields.txt` and copy the contents of `front.html`, `back.html` and `style.css` to the corresponding fields.
+To add a template, simply create a new note type with the fields from  its `fields.txt` and copy the contents of `front.html`, `back.html` and `style.css` to the corresponding fields in the template form.
 
 **Note:** If you are using *Cloze Overlapper*, you also need to add your card type to the add-on settings in `Tools -> Cloze Overlapper Options -> General -> Names` (comma separated values).
 
