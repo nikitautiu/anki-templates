@@ -1,6 +1,7 @@
-Cloze
+Original
 Context
 Preface
 Hint
 Reference
 Extra
+...All the other required overlapping cloze fields...
