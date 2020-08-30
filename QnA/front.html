@@ -1,0 +1,44 @@
+<div class="corner"> ░░░░ </div>
+
+<div class="context">{{Context}}</div>
+
+{{#Preface}}
+	<div class="sem-block">
+		<strong>Preface:</strong>
+		<div>
+			{{Preface}}
+		</div>
+	</div>
+{{/Preface}}
+
+
+<div class="sem-block" id="text-front">
+		<strong>Q:</strong>
+		<div>
+			{{Question}}
+		</div>
+</div>
+
+<hr />
+
+<div class="sem-block" id="text-back">
+		<strong>A:</strong>
+		<div>
+			___ ___  __ __
+		</div>
+</div>
+
+
+{{#Hint}}
+	<div class="sem-block">
+		<strong>Hint:</strong> 
+		<div>{{hint:Hint}}</div>
+	</div>
+{{/Hint}}
+
+{{#Reference}}
+	<div class="sem-block">
+		<strong>Ref:</strong> 
+		<div>{{hint:Reference}}</div>
+	</div>
+{{/Reference}}

@@ -1,0 +1,6 @@
+Cloze
+Context
+Preface
+Hint
+Reference
+Extra
