@@ -77,6 +77,6 @@ To comply with the requirements of the add-on the cloze goes in the `Original` f
 
 ## Copyright
 
-*Copyright © 2019 - Nichita Uțiu*
+*Copyright © 2020 - Nichita Uțiu*
 
 This repository is licensed under the MIT License.
