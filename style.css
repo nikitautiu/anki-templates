@@ -45,66 +45,66 @@ template*/
 }
 
 .corner {
-    position: absolute;
-    right: 5px;
-    top: 5px;
+  position: absolute;
+  right: 5px;
+  top: 5px;
 }
 
 hr {
-    color: #586e75;
+  color: #586e75;
 }
 
 .text-block {
-    padding-left: 10px;
-    padding-bottom: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 
 .sem-block, .text-block {
-    text-align: left;
+  text-align: left;
 }
 
 .sem-block strong {
-    color: #268bd2;
+  color: #268bd2;
 }
 
 a {
-    color: #2aa198;
+  color: #2aa198;
 }
 
 .sem-block > p, .sem-block > a, .sem-block > div {
-    display: block;
-    padding-left: 10px;
-    padding-bottom: 10px;
+  display: block;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 
 .sem-block, p, div, .hint{
-    margin: 0;
+  margin: 0;
 }
 
 .context {
-    font-weight: bold;
-    color: #268bd2;
+  font-weight: bold;
+  color: #268bd2;
 }
 
 .cloze {
-    font-family: Sans Forgetica, Open Sans, sans;
+  font-family: Sans Forgetica, Open Sans, sans;
   font-weight: normal;
   font-style: normal;
   color: #2aa198;
 }
 
 #text-back div {
-    font-family: Sans Forgetica, Open Sans, sans;
-    color: #2aa198;
+  font-family: Sans Forgetica, Open Sans, sans;
+  color: #2aa198;
 }
 
 #text-back {
-    padding-top: 10px;
-    padding-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 40px;
 }
 
 #text-front {
-    padding-top: 30px
+  padding-top: 30px
 }
   
   
